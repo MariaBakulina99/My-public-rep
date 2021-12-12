@@ -6,5 +6,14 @@ dir
 Git add filename.typ
 git commit -m "добавил команды Githab в TestDoc.txt"
 Git push
+git log
+git rm
 git config --global user.email "email@serv.dom"
 git config --global user.name "Vasua Pupkin"
+
+Последовательность команд для фиксации изменений на сервере GitHub:
+
+git add .
+git commit -m "текст на сайт о релизе"
+Git push
+Git status
