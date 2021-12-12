@@ -1,10 +1,10 @@
-Команды GitHub
+п»їРљРѕРјР°РЅРґС‹ GitHub
 cd Dir
 Git clone
 Git status
 dir
 Git add filename.typ
-git commit -m "добавил команды Githab в TestDoc.txt"
+git commit -m "РґРѕР±Р°РІРёР» РєРѕРјР°РЅРґС‹ Githab РІ TestDoc.txt"
 Git push
 git config --global user.email "email@serv.dom"
 git config --global user.name "Vasua Pupkin"
