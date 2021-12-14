@@ -12,6 +12,7 @@ git branch, после которой следует имя создаваемо
 git branch --list. Она выведет список веток, которые существуют в вашем локальном репозитории
 git branch --list -v . Вы увидите информацию о последних коммитах каждой из веток
 git checkout необходимо выполнить для переключения на созданную ветку/ Например, git checkout testbranch00
+git push --set-upstream origin testbranch01
 
 *************************************************************************************************************
 git config --global user.email "email@serv.dom"
@@ -22,7 +23,7 @@ git config --global user.name "Vasua Pupkin"
 
 git add .
 git commit -m "текст на сайт о релизе"
-Git push
+Git push   или  git push --set-upstream origin NameBranch
 Git status
 
 
